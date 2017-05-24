@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Context Menu</string>
+    <string name="call">Call</string>
+    <string name="sms">Send_SMS</string>
+
+</resources>
